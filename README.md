@@ -17,11 +17,10 @@ This is the place where I opensource stuff and break things :rofl:
 - [【课程笔记】南大软件分析课程—16课时完整版](https://bsauce.github.io/2020/05/08/software-analysis/)
 <!-- BLOG-POST-LIST:END -->
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=bsauce&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
 <img src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-
 <a href="https://github.com/bsauce/kernel-security-learning">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bsauce&repo=kernel-security-learning&theme=material-palenight&title_color=8E2DE2" />     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bsauce&repo=kernel-exploit-factory&theme=material-palenight&title_color=8E2DE2" />
 </a>
+
+
