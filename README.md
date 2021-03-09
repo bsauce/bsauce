@@ -19,8 +19,5 @@ This is the place where I opensource stuff and break things :rofl:
 
 <img src="https://github-readme-stats.vercel.app/api?username=bsauce&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 <img src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
-<a href="https://github.com/bsauce/kernel-security-learning">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bsauce&repo=kernel-security-learning&theme=material-palenight&title_color=8E2DE2" />     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bsauce&repo=kernel-exploit-factory&theme=material-palenight&title_color=8E2DE2" />
-</a>
 
 
