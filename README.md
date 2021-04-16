@@ -10,6 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [【kernel exploit】CVE-2021-26708 四字节写特殊竞争UAF转化为内核任意读写](https://bsauce.github.io/2021/04/16/writeup-CVE-2021-26708/)
 - [【kernel exploit】CVE-2017-11176 竞态Double-Free漏洞调试](https://bsauce.github.io/2021/02/21/CVE-2017-11176/)
 - [【kernel exploit】CVE-2021-3156 sudo漏洞分析与利用](https://bsauce.github.io/2021/02/01/writeup-CVE-2021-3156/)
 - [【bsauce读论文】Krace：Data Race Fuzzing for Kernel File Systems-S&P2020](https://bsauce.github.io/2020/10/30/Krace/)
