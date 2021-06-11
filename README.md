@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [【kernel exploit】CVE-2021-31440 eBPF边界计算错误漏洞](https://bsauce.github.io/2021/06/09/CVE-2021-31440/)
+- [【kernel exploit】CVE-2021-31440 eBPF边界计算错误漏洞（Pwn2Own 2021）](https://bsauce.github.io/2021/06/09/CVE-2021-31440/)
 - [【bsauce读论文】2021-USENIX-EXPRACE-采用中断机制来利用多变量竞争漏洞](https://www.jianshu.com/p/eaabf0b3cec7)
 - [【kernel exploit】CVE-2017-7308 AF_PACKET 环形缓冲区溢出漏洞](https://bsauce.github.io/2021/05/19/CVE-2017-7308/)
 - [【kernel exploit】CVE-2021-26708 四字节写特殊竞争UAF转化为内核任意读写](https://bsauce.github.io/2021/04/16/writeup-CVE-2021-26708/)
