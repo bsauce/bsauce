@@ -2,11 +2,13 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning LLVM
+- 🌱 https://bsauce.github.io
 - 👯 I’m looking to collaborate on kernel security
-- 📫 How to reach me: [@bsauce](https://www.jianshu.com/u/a12c5b882be2) or bsauce0@outlook.com
+- 📫 How to reach me: bsauce0@outlook.com
 - ⚡ Fun fact: I :heart: ​ :soccer:
 
+## about
+I am currently researching <font color="red">**Linux kernel vulnerability discovery and exploitation**</font>. Feel free to contact me if you'd like to collaborate on research together. 🔍 💻
 
 📕 **Latest Blog Posts** —— **<https://bsauce.github.io/>**
 <!-- BLOG-POST-LIST:START -->
