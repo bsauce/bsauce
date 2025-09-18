@@ -1,3 +1,6 @@
+我是bsauce，某高校小青椒一枚，助理研究员。idea很多，就是没时间做~~ :sleepy::sleepy:
+欢迎感兴趣的同学联系（邮箱如下），一起研究**Linux内核漏洞挖掘与利用**，实践、发论文皆可~~ ❤
+
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 This is the place where I opensource stuff and break things :rofl:
 
@@ -9,7 +12,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 ## about
 I am currently researching <font color="red">**Linux kernel vulnerability discovery and exploitation**</font>. Feel free to contact me if you'd like to collaborate on research together. 🔍 💻
-欢迎感兴趣的同学联系，一起研究**Linux内核漏洞挖掘与利用**，实践、发论文皆可~~❤
 
 📕 **Latest Blog Posts** —— **<https://bsauce.github.io/>**
 <!-- BLOG-POST-LIST:START -->
